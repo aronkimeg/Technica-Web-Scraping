@@ -1,0 +1,11 @@
+'''
+
+Title: Technica Web Scraping
+Author: Aron Kim
+Date: 12/15/24
+
+This project utilizes python to scrape information on a headphone called Technica.
+This process will include scraping then including the highlight information into a CSV.
+The final goal/aim for the project will be to create a function which adds scraped information to a file every month automatically.
+
+'''
